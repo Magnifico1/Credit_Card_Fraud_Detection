@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. Our objective in this project was to be able to predict transactions as either genuine or fraudulent based on information given by a number of other variables using Machine Learning techniques.
 
